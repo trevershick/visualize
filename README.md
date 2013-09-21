@@ -18,3 +18,7 @@ The spring batch configuration file should be run via xslt. I'll wrap this in cl
 Copyright (C) 2012
 
 Distributed under the Eclipse Public License, the same as Clojure.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/trevershick/visualize/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
